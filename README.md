@@ -1,5 +1,6 @@
 adapt2dc
 ========
+<h3>https://github.com/calvez/adapt2dc</h3>
 <p>
 For decades, our economic systems and with it the welfare systems have been focused exclusively on growth, both in terms of output generation and in terms of population. However, in the 21st century we are arriving at a point where growth is not necessarily the reality: societies in Europe and the developed countries in general are for the first time stagnating or even diminishing by individual choice, not catastrophes. Most of these countries have birth rates below the replacement level of 2.1 children per woman, and, at the same time, a continuously rising life expectancy, resulting in the ageing of societies.
 <p/>
