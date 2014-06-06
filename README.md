@@ -1,12 +1,15 @@
 adapt2dc
 ========
-
+<p>
 For decades, our economic systems and with it the welfare systems have been focused exclusively on growth, both in terms of output generation and in terms of population. However, in the 21st century we are arriving at a point where growth is not necessarily the reality: societies in Europe and the developed countries in general are for the first time stagnating or even diminishing by individual choice, not catastrophes. Most of these countries have birth rates below the replacement level of 2.1 children per woman, and, at the same time, a continuously rising life expectancy, resulting in the ageing of societies.
-<br/>
+<p/>
+<p>
 Population shrinkage and population ageing is already a relevant issue to deal with in Central Europe and its regions. The term 'demographic change’ may include several parallel processes and phenomena such as population ageing, low birth rates, changing family structures and migration, however in the framework of the ADAPT2DC project the term ‘demographic change’ is used in the narrow sense referring mainly to ageing and population shrinkage.
-<br/>
+<p/>
+<p>
 ’Demographic change’ has become the subject of political debates in many developed countries, as decreasing population and the growing share of elderly people in societies have far-reaching effects on economy, society and environment: jeopardising the operation of welfare systems, impeding economic growth, decreasing social cohesion, leaving behind abandoned housing, services and infrastructure just to name a few. Demographic change is expected to become an issue for many European regions thus it is important to develop innovative strategies and policy tools for how to adapt to it. Demographic change is not only a problem generating new needs for development but also a complex challenge possessing development potentials as well. These potentials provide opportunities also for strengthening economy, for instance by providing alternative social service solutions trough involvement of inactive aged people (growing in number) into the social and child care services, or developing business serving the aged along the concept of “silver economy”. In spite of these inspiring opportunities, the mission of project ‘ADAPT2DC’ is finding solutions for feasibility of social services in aging local societies, with less emphasis on the opportunities of ageing.
-<br/>
+<p/>
+<p>
 The aim of the present e-book is to share the results of the project ‘ADAPT2DC - New innovative solutions to adapt governance and management of public infrastructures to demographic change in shrinking regions and cities of CE’ with the widest audience. The transfer knowledge to regional stakeholders and policy makers on demographic change especially ageing and population shrinkage, its impacts, good practices to tackle negative consequences in the field of public services (network infrastructures as well as social services), as well as more general policy guidelines for the planning of actions at the regional and local level.
-<br/>
+<p/>
 <strong>The content of the present e-book is based on several outputs of the ADAPT2DC project that you can find on the www.adapt2dc.eu webpage.</strong>
