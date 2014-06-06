@@ -1,0 +1,175 @@
+/*	make responsive map, yeah*/
+ p.map {
+    padding:0;
+    margin:0;
+    height:100%;
+    overflow-x:hidden;
+    font-size:14px;
+    font-family:'Muli', sans-serif;
+}
+/*	leaflet contorls tweak */
+ .leaflet-control-styles > select {
+    height: 8.3125rem;
+}
+.annotation {
+    font-size:14px;
+    font-family:'Muli', sans-serif;
+}
+.header {
+    background-color:rgb(63, 63, 63);
+    background-image: url(../img/fejle1.png);
+    background-repeat:no-repeat;
+    height:95px;
+    color:white;
+    margin:0px;
+    width:100%;
+    border-bottom:5px solid white;
+}
+.logos {
+    float:right;
+    width:455px;
+    background-repeat:no-repeat;
+    height:100%;
+}
+.logos img {
+    height:85px;
+    border:0px;
+    margin-top:5px;
+    margin-left:5px;
+}
+.big-header {
+/*    background-image: url(../img/d1.png);*/
+    background-color:white;
+    background-repeat: no-repeat;
+    height:47px;
+}
+.small-header {
+/*    background-image: url(../img/d2.png);*/
+    background-color:white;
+    background-repeat: no-repeat;
+    height:34px;
+}
+h3 {
+    margin:0px;
+    position:relative;
+    top:30px;
+    left:20px;
+    font-size:24px;
+    float:left;
+}
+h4 {
+    color:white;
+    position:relative;
+    top:10px;
+    left:10px;
+    font-size:20px;
+    width:100px;
+}
+h5 {
+    color:white;
+    position:relative;
+    top:5px;
+    left:5px;
+    font-size:18px;
+}
+.container {
+    width:1200px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.maps {
+    min-width: 80rem;
+}
+.main-panel {
+}
+.map {
+    height:500px;
+}
+/*#table-header {
+    width:840px;
+}
+.table_annotation {
+    background-color:white;
+    width:840px;
+}
+*/
+.table {
+    font-size:14px;
+}
+.right-panel {
+    float:right;
+    margin-top:-30px;
+}
+.leaflet-control-styles {
+    display:inline-block;
+    vertical-align:top;
+    overflow:hidden;
+    background: white;
+    background: rgba(255, 255, 255, 0.8);
+    padding:4px;
+    width: 100%;	/*extend the controls to the grid*/
+}
+.leaflet-control-styles select {
+    padding:5px;
+    margin:-5px -20px -5px -5px;
+}
+.hoverInput {
+    background: white;
+}
+.autocomplete-search {
+    float:right;
+    margin-top:20px;
+    margin-right:18px;
+    width:200px;
+    height:20px;
+}
+.autocomplete-search input {
+    border:1px solid #d3d3d3;
+}
+.autocomplete_results {
+    background-color:white;
+    width:192px;
+    padding:5px;
+    z-index:200;
+    border-bottom:1px solid #d3d3d3;
+    border-left:1px solid #d3d3d3;
+    border-right:1px solid #d3d3d3;
+    font-size:12px;
+}
+.autocomplete-results {
+    margin:3px 0px;
+    cursor: pointer;
+}
+.autocomplete-results:hover {
+    background-color:steelblue;
+    color:white;
+}
+.leaflet-control-legend {
+    padding: 6px 8px;
+    text-align: left;
+    line-height: 18px;
+    color: #555;
+    background: white;
+    background: rgba(255, 255, 255, 0.8);
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+}
+i {
+    width: 18px;
+    height: 18px;
+    float: left;
+    margin-right: 8px;
+    opacity: 0.7;
+}
+.ind_select {
+    margin:2px;
+}
+.annotation {
+    background: white;
+}
+.annotation div {
+    margin-left:5px;
+}
+.wrapper {
+    width:345px;
+}
